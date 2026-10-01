@@ -1,0 +1,3 @@
+[functions.mycoop-api]
+verify_jwt = false
+entrypoint = './functions/mycoop-api/index.ts'

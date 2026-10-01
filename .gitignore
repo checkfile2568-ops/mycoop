@@ -1,0 +1,5 @@
+node_modules/
+*.vault.json
+*backup*.json
+initial-loans.json
+.env*
